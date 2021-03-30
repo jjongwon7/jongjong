@@ -1,4 +1,4 @@
-# GFM.
+# GFM
 
 ## ***Table***
       | Header      | Title       |

@@ -1,4 +1,4 @@
-# 20182651 컴퓨터학부 전종원
+# GFM
 
 ## ***Table***
       | Header      | Title       |
